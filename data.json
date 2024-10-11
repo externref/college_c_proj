@@ -1,0 +1,1679 @@
+[
+    {
+	"question": "Who was the first President of India?",
+	"option1": "Rajendra Prasad",
+	"option2": "Jawaharlal Nehru",
+	"option3": "Sardar Patel",
+	"option4": "Zakir Husain",
+	"answer": 1
+    },
+    {
+	"question": "Who was the last Governor-General of independent India?",
+	"option1": "C. Rajagopalachari",
+	"option2": "Lord Mountbatten",
+	"option3": "Rajendra Prasad",
+	"option4": "Jawaharlal Nehru",
+	"answer": 1
+    },
+    {
+	"question": "The famous slogan 'Jai Hind' was given by?",
+	"option1": "Mahatma Gandhi",
+	"option2": "Jawaharlal Nehru",
+	"option3": "Subhas Chandra Bose",
+	"option4": "Bhagat Singh",
+	"answer": 3
+    },
+    {
+	"question": "Who was known as the 'Iron Man of India'?",
+	"option1": "Bal Gangadhar Tilak",
+	"option2": "Sardar Vallabhbhai Patel",
+	"option3": "Lal Bahadur Shastri",
+	"option4": "B. R. Ambedkar",
+	"answer": 2
+    },
+    {
+	"question": "In which year was the Indian National Congress founded?",
+	"option1": "1875",
+	"option2": "1885",
+	"option3": "1905",
+	"option4": "1920",
+	"answer": 2
+    },
+    {
+	"question": "Who wrote the book 'Discovery of India'?",
+	"option1": "Mahatma Gandhi",
+	"option2": "Rabindranath Tagore",
+	"option3": "Jawaharlal Nehru",
+	"option4": "B. R. Ambedkar",
+	"answer": 3
+    },
+    {
+	"question": "Which act introduced separate electorates for Muslims in India?",
+	"option1": "Minto-Morley Reforms",
+	"option2": "Montagu-Chelmsford Reforms",
+	"option3": "Indian Councils Act 1892",
+	"option4": "Government of India Act 1919",
+	"answer": 1
+    },
+    {
+	"question": "The Dandi March was started to protest against the tax on which commodity?",
+	"option1": "Sugar",
+	"option2": "Salt",
+	"option3": "Tea",
+	"option4": "Cotton",
+	"answer": 2
+    },
+    {
+	"question": "Who gave the famous slogan 'Inquilab Zindabad'?",
+	"option1": "Mahatma Gandhi",
+	"option2": "Bhagat Singh",
+	"option3": "Chandra Shekhar Azad",
+	"option4": "Bal Gangadhar Tilak",
+	"answer": 2
+    },
+    {
+	"question": "Which Mughal emperor built the Taj Mahal?",
+	"option1": "Akbar",
+	"option2": "Jahangir",
+	"option3": "Shah Jahan",
+	"option4": "Aurangzeb",
+	"answer": 3
+    },
+    {
+	"question": "Which battle marked the beginning of British control in India?",
+	"option1": "Battle of Plassey",
+	"option2": "Battle of Buxar",
+	"option3": "First Anglo-Mysore War",
+	"option4": "Second Anglo-Maratha War",
+	"answer": 1
+    },
+    {
+	"question": "Who was the first female ruler of India?",
+	"option1": "Rani Laxmi Bai",
+	"option2": "Razia Sultana",
+	"option3": "Indira Gandhi",
+	"option4": "Rani Durgavati",
+	"answer": 2
+    },
+    {
+	"question": "Who led the Revolt of 1857 in Kanpur?",
+	"option1": "Bahadur Shah Zafar",
+	"option2": "Mangal Pandey",
+	"option3": "Nana Sahib",
+	"option4": "Rani Laxmi Bai",
+	"answer": 3
+    },
+    {
+	"question": "Who introduced the 'Doctrine of Lapse'?",
+	"option1": "Lord Wellesley",
+	"option2": "Lord Dalhousie",
+	"option3": "Lord Ripon",
+	"option4": "Lord Curzon",
+	"answer": 2
+    },
+    {
+	"question": "The Simon Commission was boycotted because it did not include any?",
+	"option1": "Women",
+	"option2": "Sikhs",
+	"option3": "Indians",
+	"option4": "Muslims",
+	"answer": 3
+    },
+    {
+	"question": "Who was the first Governor-General of India?",
+	"option1": "Warren Hastings",
+	"option2": "Lord Cornwallis",
+	"option3": "Lord Wellesley",
+	"option4": "Robert Clive",
+	"answer": 1
+    },
+    {
+	"question": "Which Indian freedom fighter wrote 'Vande Mataram'?",
+	"option1": "Bankim Chandra Chatterjee",
+	"option2": "Rabindranath Tagore",
+	"option3": "Subhas Chandra Bose",
+	"option4": "Mahatma Gandhi",
+	"answer": 1
+    },
+    {
+	"question": "Which ancient Indian university was located in Bihar?",
+	"option1": "Nalanda",
+	"option2": "Takshashila",
+	"option3": "Vikramashila",
+	"option4": "Pushpagiri",
+	"answer": 1
+    },
+    {
+	"question": "Who was the Viceroy of India at the time of Partition?",
+	"option1": "Lord Irwin",
+	"option2": "Lord Linlithgow",
+	"option3": "Lord Mountbatten",
+	"option4": "Lord Wavell",
+	"answer": 3
+    },
+    {
+	"question": "The Jallianwala Bagh massacre occurred in which year?",
+	"option1": "1919",
+	"option2": "1921",
+	"option3": "1930",
+	"option4": "1942",
+	"answer": 1
+    },
+    {
+	"question": "Which king was known as the 'Napoleon of India'?",
+	"option1": "Ashoka",
+	"option2": "Chandragupta Maurya",
+	"option3": "Samudragupta",
+	"option4": "Harshavardhana",
+	"answer": 3
+    },
+    {
+	"question": "The Quit India Movement was launched in which year?",
+	"option1": "1930",
+	"option2": "1942",
+	"option3": "1919",
+	"option4": "1929",
+	"answer": 2
+    },
+    {
+	"question": "Who was the first Muslim President of India?",
+	"option1": "Zakir Husain",
+	"option2": "Fakhruddin Ali Ahmed",
+	"option3": "A. P. J. Abdul Kalam",
+	"option4": "Syed Ahmed Khan",
+	"answer": 1
+    },
+    {
+	"question": "Who gave the famous speech 'Tryst with Destiny'?",
+	"option1": "Mahatma Gandhi",
+	"option2": "Jawaharlal Nehru",
+	"option3": "Sardar Patel",
+	"option4": "Subhas Chandra Bose",
+	"answer": 2
+    },
+    {
+	"question": "Which Chola ruler built the famous Brihadeeswarar Temple?",
+	"option1": "Rajendra Chola",
+	"option2": "Raja Raja Chola I",
+	"option3": "Karikala Chola",
+	"option4": "Kulothunga Chola",
+	"answer": 2
+    },
+    {
+	"question": "Who was the first Indian to win a Nobel Prize?",
+	"option1": "Rabindranath Tagore",
+	"option2": "C. V. Raman",
+	"option3": "Mother Teresa",
+	"option4": "Amartya Sen",
+	"answer": 1
+    },
+    {
+	"question": "Which dynasty built the Khajuraho temples?",
+	"option1": "Chalukyas",
+	"option2": "Chandellas",
+	"option3": "Pallavas",
+	"option4": "Guptas",
+	"answer": 2
+    },
+    {
+	"question": "Who was the first ruler to issue gold coins in India?",
+	"option1": "Mauryas",
+	"option2": "Guptas",
+	"option3": "Kushans",
+	"option4": "Satavahanas",
+	"answer": 3
+    },
+    {
+	"question": "Who was the first woman to become the Chief Minister of an Indian state?",
+	"option1": "Indira Gandhi",
+	"option2": "Sarojini Naidu",
+	"option3": "Sucheta Kriplani",
+	"option4": "Jayalalitha",
+	"answer": 3
+    },
+    {
+	"question": "In which year did the Battle of Panipat take place?",
+	"option1": "1526",
+	"option2": "1556",
+	"option3": "1761",
+	"option4": "1658",
+	"answer": 1
+    },
+    {
+	"question": "Which of the following kings adopted Jainism and gave up violence?",
+	"option1": "Ashoka",
+	"option2": "Chandragupta Maurya",
+	"option3": "Harshavardhana",
+	"option4": "Samudragupta",
+	"answer": 2
+    },
+    {
+	"question": "Who led the Salt March with Gandhi?",
+	"option1": "Subhas Chandra Bose",
+	"option2": "Sardar Patel",
+	"option3": "Sarojini Naidu",
+	"option4": "Jawaharlal Nehru",
+	"answer": 3
+    },
+    {
+	"question": "The Treaty of Alinagar was signed between the British and which Indian ruler?",
+	"option1": "Tipu Sultan",
+	"option2": "Mir Jafar",
+	"option3": "Siraj-ud-Daula",
+	"option4": "Hyder Ali",
+	"answer": 3
+    },
+    {
+	"question": "Who started the Civil Disobedience Movement in India?",
+	"option1": "Jawaharlal Nehru",
+	"option2": "Mahatma Gandhi",
+	"option3": "Sardar Patel",
+	"option4": "Bal Gangadhar Tilak",
+	"answer": 2
+    },
+    {
+	"question": "The famous 'Delhi Durbar' was held in which year?",
+	"option1": "1911",
+	"option2": "1929",
+	"option3": "1942",
+	"option4": "1857",
+	"answer": 1
+    },
+    {
+	"question": "Which is the largest state in India by area?",
+	"option1": "Maharashtra",
+	"option2": "Rajasthan",
+	"option3": "Uttar Pradesh",
+	"option4": "Madhya Pradesh",
+	"answer": 2
+    },
+    {
+	"question": "Which river is known as the 'Sorrow of Bihar'?",
+	"option1": "Yamuna",
+	"option2": "Ganga",
+	"option3": "Kosi",
+	"option4": "Mahanadi",
+	"answer": 3
+    },
+    {
+	"question": "The Tropic of Cancer passes through how many Indian states?",
+	"option1": "6",
+	"option2": "8",
+	"option3": "9",
+	"option4": "12",
+	"answer": 3
+    },
+    {
+	"question": "Which is the smallest state in India by area?",
+	"option1": "Goa",
+	"option2": "Sikkim",
+	"option3": "Tripura",
+	"option4": "Manipur",
+	"answer": 1
+    },
+    {
+	"question": "Which state is known as the 'Land of Five Rivers'?",
+	"option1": "Haryana",
+	"option2": "Uttar Pradesh",
+	"option3": "Punjab",
+	"option4": "Bihar",
+	"answer": 3
+    },
+    {
+	"question": "Which mountain range forms the northern boundary of India?",
+	"option1": "Vindhya",
+	"option2": "Aravalli",
+	"option3": "Himalayas",
+	"option4": "Western Ghats",
+	"answer": 3
+    },
+    {
+	"question": "What is the capital of Lakshadweep?",
+	"option1": "Kavaratti",
+	"option2": "Port Blair",
+	"option3": "Daman",
+	"option4": "Silvassa",
+	"answer": 1
+    },
+    {
+	"question": "Which Indian state has the longest coastline?",
+	"option1": "Maharashtra",
+	"option2": "Gujarat",
+	"option3": "Tamil Nadu",
+	"option4": "Odisha",
+	"answer": 2
+    },
+    {
+	"question": "In which state is the Kaziranga National Park located?",
+	"option1": "West Bengal",
+	"option2": "Assam",
+	"option3": "Madhya Pradesh",
+	"option4": "Meghalaya",
+	"answer": 2
+    },
+    {
+	"question": "Which river is called the 'Dakshin Ganga'?",
+	"option1": "Krishna",
+	"option2": "Cauvery",
+	"option3": "Godavari",
+	"option4": "Narmada",
+	"answer": 3
+    },
+    {
+	"question": "Which state has the largest forest cover in India?",
+	"option1": "Madhya Pradesh",
+	"option2": "Arunachal Pradesh",
+	"option3": "Odisha",
+	"option4": "Maharashtra",
+	"answer": 1
+    },
+    {
+	"question": "What is the capital of Mizoram?",
+	"option1": "Aizawl",
+	"option2": "Imphal",
+	"option3": "Kohima",
+	"option4": "Shillong",
+	"answer": 1
+    },
+    {
+	"question": "Which is the largest freshwater lake in India?",
+	"option1": "Dal Lake",
+	"option2": "Chilka Lake",
+	"option3": "Loktak Lake",
+	"option4": "Wular Lake",
+	"answer": 4
+    },
+    {
+	"question": "The Narmada River flows through which mountain range?",
+	"option1": "Vindhya Range",
+	"option2": "Aravalli Range",
+	"option3": "Western Ghats",
+	"option4": "Satpura Range",
+	"answer": 4
+    },
+    {
+	"question": "Which Indian state shares the longest border with Pakistan?",
+	"option1": "Gujarat",
+	"option2": "Rajasthan",
+	"option3": "Punjab",
+	"option4": "Jammu and Kashmir",
+	"answer": 2
+    },
+    {
+	"question": "Which Indian state is famous for its backwaters?",
+	"option1": "Tamil Nadu",
+	"option2": "Karnataka",
+	"option3": "Kerala",
+	"option4": "Goa",
+	"answer": 3
+    },
+    {
+	"question": "Which plateau is known as the 'Roof of the World'?",
+	"option1": "Tibetan Plateau",
+	"option2": "Deccan Plateau",
+	"option3": "Malwa Plateau",
+	"option4": "Chota Nagpur Plateau",
+	"answer": 1
+    },
+    {
+	"question": "Which state in India is the largest producer of tea?",
+	"option1": "Assam",
+	"option2": "West Bengal",
+	"option3": "Kerala",
+	"option4": "Tamil Nadu",
+	"answer": 1
+    },
+    {
+	"question": "Which river originates from Amarkantak?",
+	"option1": "Narmada",
+	"option2": "Yamuna",
+	"option3": "Tapi",
+	"option4": "Godavari",
+	"answer": 1
+    },
+    {
+	"question": "What is the southernmost point of India?",
+	"option1": "Kanyakumari",
+	"option2": "Indira Point",
+	"option3": "Rameshwaram",
+	"option4": "Nicobar Islands",
+	"answer": 2
+    },
+    {
+	"question": "Which state is the largest producer of coffee in India?",
+	"option1": "Tamil Nadu",
+	"option2": "Kerala",
+	"option3": "Karnataka",
+	"option4": "Andhra Pradesh",
+	"answer": 3
+    },
+    {
+	"question": "The Great Indian Desert is also known as?",
+	"option1": "Rann of Kutch",
+	"option2": "Deccan Desert",
+	"option3": "Thar Desert",
+	"option4": "Kalahari Desert",
+	"answer": 3
+    },
+    {
+	"question": "Which state in India is the largest producer of rubber?",
+	"option1": "Kerala",
+	"option2": "Tamil Nadu",
+	"option3": "Karnataka",
+	"option4": "Assam",
+	"answer": 1
+    },
+    {
+	"question": "Which city is known as the 'City of Lakes'?",
+	"option1": "Jaipur",
+	"option2": "Udaipur",
+	"option3": "Bhopal",
+	"option4": "Nainital",
+	"answer": 2
+    },
+    {
+	"question": "What is the total number of Union Territories in India?",
+	"option1": "7",
+	"option2": "8",
+	"option3": "9",
+	"option4": "10",
+	"answer": 2
+    },
+    {
+	"question": "Which state in India is famous for the Sundarbans mangrove forest?",
+	"option1": "Odisha",
+	"option2": "Andhra Pradesh",
+	"option3": "West Bengal",
+	"option4": "Gujarat",
+	"answer": 3
+    },
+    {
+	"question": "Which river forms the boundary between India and Bangladesh?",
+	"option1": "Brahmaputra",
+	"option2": "Padma",
+	"option3": "Ganga",
+	"option4": "Teesta",
+	"answer": 1
+    },
+    {
+	"question": "Which state is home to the Silent Valley National Park?",
+	"option1": "Tamil Nadu",
+	"option2": "Karnataka",
+	"option3": "Kerala",
+	"option4": "Andhra Pradesh",
+	"answer": 3
+    },
+    {
+	"question": "What is the capital of Nagaland?",
+	"option1": "Kohima",
+	"option2": "Imphal",
+	"option3": "Gangtok",
+	"option4": "Itanagar",
+	"answer": 1
+    },
+    {
+	"question": "Which river flows through the city of Ahmedabad?",
+	"option1": "Sabarmati",
+	"option2": "Mahanadi",
+	"option3": "Ganga",
+	"option4": "Tapi",
+	"answer": 1
+    },
+    {
+	"question": "Which Indian state shares its border with China, Bhutan, and Nepal?",
+	"option1": "West Bengal",
+	"option2": "Sikkim",
+	"option3": "Arunachal Pradesh",
+	"option4": "Assam",
+	"answer": 2
+    },
+    {
+	"question": "Which is the highest dam in India?",
+	"option1": "Bhakra Dam",
+	"option2": "Tehri Dam",
+	"option3": "Sardar Sarovar Dam",
+	"option4": "Hirakud Dam",
+	"answer": 2
+    },
+    {
+	"question": "The famous Dal Lake is situated in which state/UT?",
+	"option1": "Himachal Pradesh",
+	"option2": "Uttarakhand",
+	"option3": "Jammu & Kashmir",
+	"option4": "Sikkim",
+	"answer": 3
+    },
+    {
+	"question": "Which river is the longest in India?",
+	"option1": "Godavari",
+	"option2": "Ganga",
+	"option3": "Yamuna",
+	"option4": "Krishna",
+	"answer": 2
+    },
+    {
+	"question": "Which Indian state has the longest international border?",
+	"option1": "Uttar Pradesh",
+	"option2": "Punjab",
+	"option3": "West Bengal",
+	"option4": "Rajasthan",
+	"answer": 3
+    },
+    {
+	"question": "Which city is known as the 'Silicon Valley of India'?",
+	"option1": "Hyderabad",
+	"option2": "Pune",
+	"option3": "Bangalore",
+	"option4": "Chennai",
+	"answer": 3
+    },{
+    "question": "Who was the first President of India?",
+    "option1": "Dr. Rajendra Prasad",
+    "option2": "Dr. S. Radhakrishnan",
+    "option3": "Zakir Husain",
+    "option4": "V.V. Giri",
+    "answer": 1
+    },
+    {
+	"question": "The Constitution of India was adopted on?",
+	"option1": "26th January 1950",
+	"option2": "15th August 1947",
+	"option3": "26th November 1949",
+	"option4": "2nd October 1950",
+	"answer": 3
+    },
+    {
+	"question": "Which article of the Indian Constitution gives special status to Jammu and Kashmir?",
+	"option1": "Article 356",
+	"option2": "Article 370",
+	"option3": "Article 352",
+	"option4": "Article 368",
+	"answer": 2
+    },
+    {
+	"question": "Who is considered the 'Architect of the Indian Constitution'?",
+	"option1": "Jawaharlal Nehru",
+	"option2": "Sardar Patel",
+	"option3": "B.R. Ambedkar",
+	"option4": "Rajendra Prasad",
+	"answer": 3
+    },
+    {
+	"question": "Which part of the Indian Constitution deals with Fundamental Rights?",
+	"option1": "Part III",
+	"option2": "Part IV",
+	"option3": "Part II",
+	"option4": "Part I",
+	"answer": 1
+    },
+    {
+	"question": "The Election Commission of India is a?",
+	"option1": "Statutory body",
+	"option2": "Non-statutory body",
+	"option3": "Constitutional body",
+	"option4": "Ad-hoc body",
+	"answer": 3
+    },
+    {
+	"question": "Who was the first woman Prime Minister of India?",
+	"option1": "Indira Gandhi",
+	"option2": "Sarojini Naidu",
+	"option3": "Sonia Gandhi",
+	"option4": "Meira Kumar",
+	"answer": 1
+    },
+    {
+	"question": "The Lok Sabha is also known as?",
+	"option1": "Upper House",
+	"option2": "House of the People",
+	"option3": "Council of States",
+	"option4": "Rajya Sabha",
+	"answer": 2
+    },
+    {
+	"question": "The Prime Minister of India is appointed by?",
+	"option1": "Lok Sabha",
+	"option2": "President",
+	"option3": "Rajya Sabha",
+	"option4": "Supreme Court",
+	"answer": 2
+    },
+    {
+	"question": "Which institution is responsible for appointing judges to the Supreme Court?",
+	"option1": "Parliament",
+	"option2": "Prime Minister",
+	"option3": "President",
+	"option4": "Collegium",
+	"answer": 4
+    },
+    {
+	"question": "Which amendment to the Constitution introduced the Panchayati Raj system?",
+	"option1": "61st Amendment",
+	"option2": "73rd Amendment",
+	"option3": "42nd Amendment",
+	"option4": "91st Amendment",
+	"answer": 2
+    },
+    {
+	"question": "How many members of the Rajya Sabha are nominated by the President of India?",
+	"option1": "10",
+	"option2": "8",
+	"option3": "12",
+	"option4": "14",
+	"answer": 3
+    },
+    {
+	"question": "Who has the power to dissolve the Lok Sabha?",
+	"option1": "Prime Minister",
+	"option2": "President",
+	"option3": "Vice President",
+	"option4": "Supreme Court",
+	"answer": 2
+    },
+    {
+	"question": "Who was the first woman Speaker of the Lok Sabha?",
+	"option1": "Sushma Swaraj",
+	"option2": "Meira Kumar",
+	"option3": "Sumitra Mahajan",
+	"option4": "Pratibha Patil",
+	"answer": 2
+    },
+    {
+	"question": "Who was the first Law Minister of independent India?",
+	"option1": "Sardar Patel",
+	"option2": "Mahatma Gandhi",
+	"option3": "B.R. Ambedkar",
+	"option4": "Jawaharlal Nehru",
+	"answer": 3
+    },
+    {
+	"question": "Who was the first Governor-General of independent India?",
+	"option1": "C. Rajagopalachari",
+	"option2": "Lord Mountbatten",
+	"option3": "Jawaharlal Nehru",
+	"option4": "Dr. Rajendra Prasad",
+	"answer": 2
+    },
+    {
+	"question": "Who is the custodian of the Indian Constitution?",
+	"option1": "President of India",
+	"option2": "Chief Justice of India",
+	"option3": "Speaker of Lok Sabha",
+	"option4": "Prime Minister",
+	"answer": 2
+    },
+    {
+	"question": "The term of a member of the Rajya Sabha is?",
+	"option1": "5 years",
+	"option2": "6 years",
+	"option3": "4 years",
+	"option4": "7 years",
+	"answer": 2
+    },
+    {
+	"question": "The National Development Council was set up in which year?",
+	"option1": "1950",
+	"option2": "1952",
+	"option3": "1947",
+	"option4": "1965",
+	"answer": 2
+    },
+    {
+	"question": "Which of the following is a Union Territory of India?",
+	"option1": "Goa",
+	"option2": "Puducherry",
+	"option3": "Mizoram",
+	"option4": "Nagaland",
+	"answer": 2
+    },
+    {
+	"question": "Which schedule of the Indian Constitution lists the official languages of India?",
+	"option1": "6th Schedule",
+	"option2": "7th Schedule",
+	"option3": "8th Schedule",
+	"option4": "9th Schedule",
+	"answer": 3
+    },
+    {
+	"question": "Which of the following is not a Fundamental Right in India?",
+	"option1": "Right to Equality",
+	"option2": "Right to Property",
+	"option3": "Right to Freedom of Religion",
+	"option4": "Right to Constitutional Remedies",
+	"answer": 2
+    },
+    {
+	"question": "How many members are there in the Lok Sabha?",
+	"option1": "530",
+	"option2": "545",
+	"option3": "552",
+	"option4": "543",
+	"answer": 3
+    },
+    {
+	"question": "Which of the following is the highest law officer in India?",
+	"option1": "Solicitor General",
+	"option2": "Chief Justice of India",
+	"option3": "Attorney General",
+	"option4": "Advocate General",
+	"answer": 3
+    },
+    {
+	"question": "Which article of the Indian Constitution deals with the Right to Education?",
+	"option1": "Article 21A",
+	"option2": "Article 14",
+	"option3": "Article 32",
+	"option4": "Article 25",
+	"answer": 1
+    },
+    {
+	"question": "Which of the following is not a member of the Parliament?",
+	"option1": "Prime Minister",
+	"option2": "President",
+	"option3": "Lok Sabha Speaker",
+	"option4": "Rajya Sabha Chairman",
+	"answer": 2
+    },
+    {
+	"question": "Which of the following is the highest post in the Indian Army?",
+	"option1": "General",
+	"option2": "Field Marshal",
+	"option3": "Lieutenant General",
+	"option4": "Major General",
+	"answer": 2
+    },
+    {
+	"question": "The Parliament of India consists of?",
+	"option1": "President, Lok Sabha, Rajya Sabha",
+	"option2": "Lok Sabha and Rajya Sabha",
+	"option3": "Prime Minister, Lok Sabha, Rajya Sabha",
+	"option4": "President, Prime Minister, Lok Sabha",
+	"answer": 1
+    },
+    {
+	"question": "The power to amend the Constitution is vested in?",
+	"option1": "Parliament",
+	"option2": "President",
+	"option3": "Supreme Court",
+	"option4": "Prime Minister",
+	"answer": 1
+    },
+    {
+	"question": "The Finance Commission is constituted by?",
+	"option1": "Prime Minister",
+	"option2": "President",
+	"option3": "Vice President",
+	"option4": "Chief Justice",
+	"answer": 2
+    },
+    {
+	"question": "How many High Courts are there in India?",
+	"option1": "24",
+	"option2": "25",
+	"option3": "30",
+	"option4": "28",
+	"answer": 2
+    },
+    {
+	"question": "Which of the following political parties is the oldest in India?",
+	"option1": "BJP",
+	"option2": "Indian National Congress",
+	"option3": "Communist Party of India",
+	"option4": "Aam Aadmi Party",
+	"answer": 2
+    },
+    {
+	"question": "The Rajya Sabha is also known as?",
+	"option1": "House of the People",
+	"option2": "Upper House",
+	"option3": "Lower House",
+	"option4": "State Council",
+	"answer": 2
+    },
+    {
+	"question": "Who was the first Chief Election Commissioner of India?",
+	"option1": "Sukumar Sen",
+	"option2": "T.N. Seshan",
+	"option3": "K.V.K. Sundaram",
+	"option4": "V.S. Ramadevi",
+	"answer": 1
+    },
+    {
+	"question": "The Prime Minister of India is the?",
+	"option1": "Head of State",
+	"option2": "Head of Government",
+	"option3": "Head of Parliament",
+	"option4": "Head of Judiciary",
+	"answer": 2
+    },
+    {
+	"question": "The President of India can proclaim emergency under which Article?",
+	"option1": "Article 352",
+	"option2": "Article 370",
+	"option3": "Article 356",
+	"option4": "Article 360",
+	"answer": 1
+    },
+    {
+	"question": "The Vice President of India is the ex-officio chairman of?",
+	"option1": "Lok Sabha",
+	"option2": "Rajya Sabha",
+	"option3": "Supreme Court",
+	"option4": "Election Commission",
+	"answer": 2
+    },{
+    "question": "Which sport is associated with the Davis Cup?",
+    "option1": "Badminton",
+    "option2": "Tennis",
+    "option3": "Cricket",
+    "option4": "Football",
+    "answer": 2
+    },
+    {
+	"question": "In which year did India win its first Cricket World Cup?",
+	"option1": "1975",
+	"option2": "1983",
+	"option3": "1992",
+	"option4": "2007",
+	"answer": 2
+    },
+    {
+	"question": "Who was the first Indian to win an individual Olympic gold medal?",
+	"option1": "P.T. Usha",
+	"option2": "Abhinav Bindra",
+	"option3": "Leander Paes",
+	"option4": "Saina Nehwal",
+	"answer": 2
+    },
+    {
+	"question": "Which Indian cricketer is known as the 'God of Cricket'?",
+	"option1": "Virat Kohli",
+	"option2": "Kapil Dev",
+	"option3": "Sunil Gavaskar",
+	"option4": "Sachin Tendulkar",
+	"answer": 4
+    },
+    {
+	"question": "Which sport is associated with the 'Santosh Trophy'?",
+	"option1": "Hockey",
+	"option2": "Football",
+	"option3": "Basketball",
+	"option4": "Cricket",
+	"answer": 2
+    },
+    {
+	"question": "Which Indian city is known as the 'Mecca of Indian Football'?",
+	"option1": "Mumbai",
+	"option2": "Goa",
+	"option3": "Kolkata",
+	"option4": "Chennai",
+	"answer": 3
+    },
+    {
+	"question": "Which Indian female boxer won the World Championship six times?",
+	"option1": "Sakshi Malik",
+	"option2": "Mary Kom",
+	"option3": "Saina Nehwal",
+	"option4": "PV Sindhu",
+	"answer": 2
+    },
+    {
+	"question": "Who is the first Indian woman to win a medal at the Olympics?",
+	"option1": "Saina Nehwal",
+	"option2": "Mary Kom",
+	"option3": "P.T. Usha",
+	"option4": "Karnam Malleswari",
+	"answer": 4
+    },
+    {
+	"question": "In which sport did India win its first Olympic gold medal?",
+	"option1": "Hockey",
+	"option2": "Badminton",
+	"option3": "Shooting",
+	"option4": "Athletics",
+	"answer": 1
+    },
+    {
+	"question": "The term 'free throw' is associated with which sport?",
+	"option1": "Basketball",
+	"option2": "Football",
+	"option3": "Tennis",
+	"option4": "Badminton",
+	"answer": 1
+    },
+    {
+	"question": "Which sport is Milkha Singh associated with?",
+	"option1": "Football",
+	"option2": "Athletics",
+	"option3": "Boxing",
+	"option4": "Wrestling",
+	"answer": 2
+    },
+    {
+	"question": "Which country has won the most number of Cricket World Cups?",
+	"option1": "India",
+	"option2": "Australia",
+	"option3": "West Indies",
+	"option4": "Pakistan",
+	"answer": 2
+    },
+    {
+	"question": "Which sport is associated with the Wimbledon Championship?",
+	"option1": "Football",
+	"option2": "Tennis",
+	"option3": "Hockey",
+	"option4": "Golf",
+	"answer": 2
+    },
+    {
+	"question": "Who holds the record for the most goals scored in international football?",
+	"option1": "Lionel Messi",
+	"option2": "Pele",
+	"option3": "Sunil Chhetri",
+	"option4": "Cristiano Ronaldo",
+	"answer": 4
+    },
+    {
+	"question": "Which Indian cricketer is popularly known as 'The Wall'?",
+	"option1": "Virat Kohli",
+	"option2": "Sachin Tendulkar",
+	"option3": "Rahul Dravid",
+	"option4": "VVS Laxman",
+	"answer": 3
+    },
+    {
+	"question": "Which Indian footballer is known as the 'Captain Fantastic'?",
+	"option1": "Bhaichung Bhutia",
+	"option2": "Sunil Chhetri",
+	"option3": "I.M. Vijayan",
+	"option4": "Jeje Lalpekhlua",
+	"answer": 2
+    },
+    {
+	"question": "In which sport is the term 'birdie' used?",
+	"option1": "Golf",
+	"option2": "Badminton",
+	"option3": "Tennis",
+	"option4": "Basketball",
+	"answer": 1
+    },
+    {
+	"question": "Who is the first Indian to win the All England Badminton Championship?",
+	"option1": "Pullela Gopichand",
+	"option2": "Prakash Padukone",
+	"option3": "Saina Nehwal",
+	"option4": "Kidambi Srikanth",
+	"answer": 2
+    },
+    {
+	"question": "Who is known as the Flying Sikh of India?",
+	"option1": "Kapil Dev",
+	"option2": "Abhinav Bindra",
+	"option3": "Milkha Singh",
+	"option4": "P.T. Usha",
+	"answer": 3
+    },
+    {
+	"question": "Which country won the FIFA World Cup in 2018?",
+	"option1": "Germany",
+	"option2": "Argentina",
+	"option3": "Brazil",
+	"option4": "France",
+	"answer": 4
+    },
+    {
+	"question": "Who is the first Indian to win a medal in Badminton at the Olympics?",
+	"option1": "P.V. Sindhu",
+	"option2": "Saina Nehwal",
+	"option3": "Kidambi Srikanth",
+	"option4": "Pullela Gopichand",
+	"answer": 2
+    },
+    {
+	"question": "Which Indian athlete won gold in javelin throw at the Tokyo Olympics?",
+	"option1": "Neeraj Chopra",
+	"option2": "Dutee Chand",
+	"option3": "Anju Bobby George",
+	"option4": "Bajrang Punia",
+	"answer": 1
+    },
+    {
+	"question": "Who was the first Indian to win the Wimbledon title?",
+	"option1": "Leander Paes",
+	"option2": "Mahesh Bhupathi",
+	"option3": "Rohan Bopanna",
+	"option4": "Sania Mirza",
+	"answer": 1
+    },
+    {
+	"question": "Which team has won the most IPL titles?",
+	"option1": "Mumbai Indians",
+	"option2": "Chennai Super Kings",
+	"option3": "Royal Challengers Bangalore",
+	"option4": "Kolkata Knight Riders",
+	"answer": 1
+    },
+    {
+	"question": "Which Indian golfer won the Arjuna Award in 1995?",
+	"option1": "Jeev Milkha Singh",
+	"option2": "Anirban Lahiri",
+	"option3": "Shiv Kapur",
+	"option4": "Arjun Atwal",
+	"answer": 1
+    },
+    {
+	"question": "Which sport is associated with the Ryder Cup?",
+	"option1": "Golf",
+	"option2": "Tennis",
+	"option3": "Football",
+	"option4": "Basketball",
+	"answer": 1
+    },
+    {
+	"question": "Which sport is Viswanathan Anand associated with?",
+	"option1": "Boxing",
+	"option2": "Chess",
+	"option3": "Tennis",
+	"option4": "Badminton",
+	"answer": 2
+    },
+    {
+	"question": "In which city were the first modern Olympics held?",
+	"option1": "London",
+	"option2": "Athens",
+	"option3": "Paris",
+	"option4": "Tokyo",
+	"answer": 2
+    },
+    {
+	"question": "Which Indian shooter won a silver medal at the Athens Olympics?",
+	"option1": "Rajyavardhan Singh Rathore",
+	"option2": "Gagan Narang",
+	"option3": "Abhinav Bindra",
+	"option4": "Vijay Kumar",
+	"answer": 1
+    },
+    {
+	"question": "Who was the first Indian woman to win a gold medal at the Commonwealth Games?",
+	"option1": "P.T. Usha",
+	"option2": "Saina Nehwal",
+	"option3": "Manika Batra",
+	"option4": "Karnam Malleswari",
+	"answer": 3
+    },
+    {
+	"question": "In which sport is the term 'slam dunk' used?",
+	"option1": "Basketball",
+	"option2": "Volleyball",
+	"option3": "Tennis",
+	"option4": "Football",
+	"answer": 1
+    },
+    {
+	"question": "Which Indian cricketer holds the record for the highest individual score in Test cricket?",
+	"option1": "Sunil Gavaskar",
+	"option2": "Virender Sehwag",
+	"option3": "Rahul Dravid",
+	"option4": "Sachin Tendulkar",
+	"answer": 2
+    },
+    {
+	"question": "Which sport is associated with the term 'hat-trick'?",
+	"option1": "Football",
+	"option2": "Cricket",
+	"option3": "Hockey",
+	"option4": "All of the above",
+	"answer": 4
+    },
+    {
+	"question": "Who was the first Indian to score a century in Test cricket?",
+	"option1": "Vijay Merchant",
+	"option2": "C.K. Nayudu",
+	"option3": "Lala Amarnath",
+	"option4": "Sunil Gavaskar",
+	"answer": 3
+    },
+    {
+	"question": "Which Indian cricketer is known as 'Captain Cool'?",
+	"option1": "Virat Kohli",
+	"option2": "MS Dhoni",
+	"option3": "Kapil Dev",
+	"option4": "Sourav Ganguly",
+	"answer": 2
+    },
+    {
+	"question": "Who was the first Indian woman to qualify for the Olympics in wrestling?",
+	"option1": "Sakshi Malik",
+	"option2": "Vinesh Phogat",
+	"option3": "Geeta Phogat",
+	"option4": "Babita Phogat",
+	"answer": 3
+    },
+    {
+	"question": "Which country hosted the 2020 Summer Olympics?",
+	"option1": "China",
+	"option2": "Japan",
+	"option3": "Brazil",
+	"option4": "South Korea",
+	"answer": 2
+    },{
+    "question": "Who is known as the father of modern physics?",
+    "option1": "Isaac Newton",
+    "option2": "Albert Einstein",
+    "option3": "Niels Bohr",
+    "option4": "Galileo Galilei",
+    "answer": 2
+    },
+    {
+	"question": "Which element has the chemical symbol 'O'?",
+	"option1": "Gold",
+	"option2": "Oxygen",
+	"option3": "Osmium",
+	"option4": "Oganesson",
+	"answer": 2
+    },
+    {
+	"question": "What is the powerhouse of the cell?",
+	"option1": "Nucleus",
+	"option2": "Ribosome",
+	"option3": "Mitochondria",
+	"option4": "Endoplasmic Reticulum",
+	"answer": 3
+    },
+    {
+	"question": "Which planet is known as the Red Planet?",
+	"option1": "Venus",
+	"option2": "Mars",
+	"option3": "Jupiter",
+	"option4": "Saturn",
+	"answer": 2
+    },
+    {
+	"question": "What is the speed of light in vacuum?",
+	"option1": "300,000 km/s",
+	"option2": "150,000 km/s",
+	"option3": "450,000 km/s",
+	"option4": "500,000 km/s",
+	"answer": 1
+    },
+    {
+	"question": "Which gas is most abundant in the Earth's atmosphere?",
+	"option1": "Oxygen",
+	"option2": "Carbon Dioxide",
+	"option3": "Nitrogen",
+	"option4": "Hydrogen",
+	"answer": 3
+    },
+    {
+	"question": "What is the boiling point of water at sea level?",
+	"option1": "90°C",
+	"option2": "100°C",
+	"option3": "80°C",
+	"option4": "120°C",
+	"answer": 2
+    },
+    {
+	"question": "Which part of the brain is responsible for regulating balance?",
+	"option1": "Cerebrum",
+	"option2": "Cerebellum",
+	"option3": "Medulla Oblongata",
+	"option4": "Hypothalamus",
+	"answer": 2
+    },
+    {
+	"question": "Who developed the theory of evolution by natural selection?",
+	"option1": "Isaac Newton",
+	"option2": "Charles Darwin",
+	"option3": "Albert Einstein",
+	"option4": "Galileo Galilei",
+	"answer": 2
+    },
+    {
+	"question": "What is the main function of red blood cells?",
+	"option1": "Fight infections",
+	"option2": "Transport oxygen",
+	"option3": "Clot blood",
+	"option4": "Maintain pH balance",
+	"answer": 2
+    },
+    {
+	"question": "Which scientist is known for the laws of motion?",
+	"option1": "Albert Einstein",
+	"option2": "Isaac Newton",
+	"option3": "James Clerk Maxwell",
+	"option4": "Niels Bohr",
+	"answer": 2
+    },
+    {
+	"question": "What is the most common metal in the Earth's crust?",
+	"option1": "Iron",
+	"option2": "Aluminum",
+	"option3": "Copper",
+	"option4": "Lead",
+	"answer": 2
+    },
+    {
+	"question": "Which organ is responsible for detoxifying the blood?",
+	"option1": "Heart",
+	"option2": "Liver",
+	"option3": "Kidneys",
+	"option4": "Lungs",
+	"answer": 2
+    },
+    {
+	"question": "What is the main ingredient in glass?",
+	"option1": "Sand",
+	"option2": "Lime",
+	"option3": "Soda ash",
+	"option4": "Potash",
+	"answer": 1
+    },
+    {
+	"question": "Which is the largest planet in our solar system?",
+	"option1": "Earth",
+	"option2": "Saturn",
+	"option3": "Jupiter",
+	"option4": "Neptune",
+	"answer": 3
+    },
+    {
+	"question": "What does DNA stand for?",
+	"option1": "Deoxyribonucleic Acid",
+	"option2": "Dextrorotatory Nucleic Acid",
+	"option3": "Deoxyribose Nucleotide Acid",
+	"option4": "Diverse Nucleic Acid",
+	"answer": 1
+    },
+    {
+	"question": "Which vitamin is produced when the skin is exposed to sunlight?",
+	"option1": "Vitamin A",
+	"option2": "Vitamin C",
+	"option3": "Vitamin D",
+	"option4": "Vitamin E",
+	"answer": 3
+    },
+    {
+	"question": "What is the hardest natural substance on Earth?",
+	"option1": "Diamond",
+	"option2": "Gold",
+	"option3": "Platinum",
+	"option4": "Iron",
+	"answer": 1
+    },
+    {
+	"question": "Which type of electromagnetic radiation has the shortest wavelength?",
+	"option1": "Ultraviolet",
+	"option2": "X-rays",
+	"option3": "Gamma rays",
+	"option4": "Radio waves",
+	"answer": 3
+    },
+    {
+	"question": "What is the primary function of the small intestine?",
+	"option1": "Absorption of nutrients",
+	"option2": "Digestion of proteins",
+	"option3": "Detoxification",
+	"option4": "Water absorption",
+	"answer": 1
+    },
+    {
+	"question": "Which instrument is used to measure atmospheric pressure?",
+	"option1": "Thermometer",
+	"option2": "Barometer",
+	"option3": "Anemometer",
+	"option4": "Hygrometer",
+	"answer": 2
+    },
+    {
+	"question": "What is the chemical formula for table salt?",
+	"option1": "NaCl",
+	"option2": "KCl",
+	"option3": "CaCl2",
+	"option4": "MgCl2",
+	"answer": 1
+    },
+    {
+	"question": "Who invented the telephone?",
+	"option1": "Alexander Graham Bell",
+	"option2": "Thomas Edison",
+	"option3": "Nikola Tesla",
+	"option4": "Guglielmo Marconi",
+	"answer": 1
+    },
+    {
+	"question": "What is the primary function of the respiratory system?",
+	"option1": "Digestion",
+	"option2": "Gas exchange",
+	"option3": "Circulation",
+	"option4": "Excretion",
+	"answer": 2
+    },
+    {
+	"question": "Which gas is used in the process of photosynthesis?",
+	"option1": "Carbon Dioxide",
+	"option2": "Oxygen",
+	"option3": "Nitrogen",
+	"option4": "Hydrogen",
+	"answer": 1
+    },
+    {
+	"question": "What is the name of the process by which plants make their food?",
+	"option1": "Respiration",
+	"option2": "Photosynthesis",
+	"option3": "Fermentation",
+	"option4": "Transpiration",
+	"answer": 2
+    },
+    {
+	"question": "Which scientist is known for the theory of relativity?",
+	"option1": "Isaac Newton",
+	"option2": "Niels Bohr",
+	"option3": "Albert Einstein",
+	"option4": "Galileo Galilei",
+	"answer": 3
+    },
+    {
+	"question": "What is the most abundant element in the universe?",
+	"option1": "Oxygen",
+	"option2": "Carbon",
+	"option3": "Hydrogen",
+	"option4": "Helium",
+	"answer": 3
+    },
+    {
+	"question": "Which part of the atom contains protons and neutrons?",
+	"option1": "Electron cloud",
+	"option2": "Nucleus",
+	"option3": "Shell",
+	"option4": "Orbit",
+	"answer": 2
+    },
+    {
+	"question": "What is the main component of the Earth's core?",
+	"option1": "Iron",
+	"option2": "Nickel",
+	"option3": "Copper",
+	"option4": "Lead",
+	"answer": 1
+    },
+    {
+	"question": "Which device is used to magnify small objects?",
+	"option1": "Telescope",
+	"option2": "Microscope",
+	"option3": "Barometer",
+	"option4": "Spectrometer",
+	"answer": 2
+    },
+    {
+	"question": "Which programming language is known as the foundation of the web?",
+	"option1": "Python",
+	"option2": "Java",
+	"option3": "JavaScript",
+	"option4": "C++",
+	"answer": 3
+    },
+    {
+	"question": "What is the main purpose of the International Space Station (ISS)?",
+	"option1": "Tourism",
+	"option2": "Research",
+	"option3": "Military Operations",
+	"option4": "Mining",
+	"answer": 2
+    },
+    {
+	"question": "What is the primary function of the kidneys?",
+	"option1": "Hormone production",
+	"option2": "Filtration of blood",
+	"option3": "Respiration",
+	"option4": "Digestion",
+	"answer": 2
+    },
+    {
+	"question": "Which type of energy is stored in food?",
+	"option1": "Kinetic energy",
+	"option2": "Thermal energy",
+	"option3": "Chemical energy",
+	"option4": "Potential energy",
+	"answer": 3
+    },{
+    "question": "What does AI stand for?",
+    "option1": "Automated Intelligence",
+    "option2": "Artificial Intelligence",
+    "option3": "Advanced Intelligence",
+    "option4": "Automatic Integration",
+    "answer": 2
+    },
+    {
+	"question": "Which of the following is a common programming language used for AI?",
+	"option1": "HTML",
+	"option2": "Python",
+	"option3": "CSS",
+	"option4": "JavaScript",
+	"answer": 2
+    },
+    {
+	"question": "What is machine learning?",
+	"option1": "A type of AI that enables systems to learn from data",
+	"option2": "A programming language",
+	"option3": "A database system",
+	"option4": "A hardware component",
+	"answer": 1
+    },
+    {
+	"question": "Which of the following is an example of a neural network?",
+	"option1": "Support Vector Machine",
+	"option2": "Convolutional Neural Network",
+	"option3": "Decision Tree",
+	"option4": "Linear Regression",
+	"answer": 2
+    },
+    {
+	"question": "What is natural language processing (NLP)?",
+	"option1": "Processing data in natural formats",
+	"option2": "Interacting with computers using human languages",
+	"option3": "Translating languages",
+	"option4": "Writing algorithms",
+	"answer": 2
+    },
+    {
+	"question": "Which AI technique is used for image recognition?",
+	"option1": "Deep Learning",
+	"option2": "Reinforcement Learning",
+	"option3": "Supervised Learning",
+	"option4": "Clustering",
+	"answer": 1
+    },
+    {
+	"question": "What is the Turing Test used for?",
+	"option1": "Measuring computer speed",
+	"option2": "Testing AI's ability to exhibit intelligent behavior",
+	"option3": "Assessing data quality",
+	"option4": "Validating software performance",
+	"answer": 2
+    },
+    {
+	"question": "Who is considered the father of artificial intelligence?",
+	"option1": "Alan Turing",
+	"option2": "John McCarthy",
+	"option3": "Marvin Minsky",
+	"option4": "Geoffrey Hinton",
+	"answer": 2
+    },
+    {
+	"question": "What is a common application of AI in healthcare?",
+	"option1": "Automated billing",
+	"option2": "Image analysis for diagnosis",
+	"option3": "Patient registration",
+	"option4": "Staff scheduling",
+	"answer": 2
+    },
+    {
+	"question": "Which of the following is NOT a type of machine learning?",
+	"option1": "Supervised Learning",
+	"option2": "Unsupervised Learning",
+	"option3": "Reinforcement Learning",
+	"option4": "Complex Learning",
+	"answer": 4
+    },
+    {
+	"question": "What is the main goal of reinforcement learning?",
+	"option1": "To minimize errors in predictions",
+	"option2": "To learn from labeled data",
+	"option3": "To maximize cumulative reward",
+	"option4": "To cluster data points",
+	"answer": 3
+    },
+    {
+	"question": "What is deep learning?",
+	"option1": "A type of shallow learning",
+	"option2": "A subset of machine learning that uses neural networks",
+	"option3": "Learning from data with no labels",
+	"option4": "Learning that requires human intervention",
+	"answer": 2
+    },
+    {
+	"question": "Which AI application is used for recommendation systems?",
+	"option1": "Data mining",
+	"option2": "Supervised learning",
+	"option3": "Collaborative filtering",
+	"option4": "Regression analysis",
+	"answer": 3
+    },
+    {
+	"question": "What does 'overfitting' mean in machine learning?",
+	"option1": "Model is too simple",
+	"option2": "Model performs well on training data but poorly on new data",
+	"option3": "Model has high bias",
+	"option4": "Model is perfectly accurate",
+	"answer": 2
+    },
+    {
+	"question": "Which AI technique involves grouping similar data points?",
+	"option1": "Classification",
+	"option2": "Clustering",
+	"option3": "Regression",
+	"option4": "Association",
+	"answer": 2
+    },
+    {
+	"question": "What is the purpose of a chatbot?",
+	"option1": "To manage databases",
+	"option2": "To simulate conversation with users",
+	"option3": "To analyze data",
+	"option4": "To write code",
+	"answer": 2
+    },
+    {
+	"question": "What is computer vision?",
+	"option1": "The ability of computers to interpret visual information",
+	"option2": "A programming language",
+	"option3": "A type of data analysis",
+	"option4": "A hardware feature",
+	"answer": 1
+    },
+    {
+	"question": "Which algorithm is commonly used for classification tasks?",
+	"option1": "K-Means",
+	"option2": "Random Forest",
+	"option3": "Principal Component Analysis",
+	"option4": "Apriori",
+	"answer": 2
+    },
+    {
+	"question": "What is sentiment analysis?",
+	"option1": "Analysis of numeric data",
+	"option2": "Assessment of customer feedback",
+	"option3": "Study of physical sensations",
+	"option4": "Evaluation of security risks",
+	"answer": 2
+    },
+    {
+	"question": "Which of the following is an example of AI in finance?",
+	"option1": "Automated trading algorithms",
+	"option2": "Paper-based transactions",
+	"option3": "Manual auditing",
+	"option4": "Personal savings accounts",
+	"answer": 1
+    },
+    {
+	"question": "What does the term 'big data' refer to?",
+	"option1": "Small data sets",
+	"option2": "Large and complex data sets",
+	"option3": "Data with high accuracy",
+	"option4": "Data that is easy to manage",
+	"answer": 2
+    },
+    {
+	"question": "What is an AI model?",
+	"option1": "A physical representation of a robot",
+	"option2": "A mathematical representation trained to perform tasks",
+	"option3": "A programming language",
+	"option4": "A type of hardware",
+	"answer": 2
+    },
+    {
+	"question": "Which of the following tasks can AI perform?",
+	"option1": "Analyzing large data sets",
+	"option2": "Recognizing speech",
+	"option3": "Driving cars",
+	"option4": "All of the above",
+	"answer": 4
+    },
+    {
+	"question": "What is the purpose of feature engineering in AI?",
+	"option1": "To improve data visualization",
+	"option2": "To enhance model performance by selecting relevant features",
+	"option3": "To simplify data entry",
+	"option4": "To clean data",
+	"answer": 2
+    },
+    {
+	"question": "Which term describes the ability of AI to improve its performance over time?",
+	"option1": "Static learning",
+	"option2": "Incremental learning",
+	"option3": "Dynamic learning",
+	"option4": "Adaptive learning",
+	"answer": 4
+    },
+    {
+	"question": "What is the role of data in AI?",
+	"option1": "Data is unnecessary",
+	"option2": "Data is the foundation for training models",
+	"option3": "Data only serves for storage",
+	"option4": "Data is only needed for testing",
+	"answer": 2
+    },
+    {
+	"question": "Which of the following best describes supervised learning?",
+	"option1": "Learning from unlabeled data",
+	"option2": "Learning from labeled data",
+	"option3": "Learning from a single data point",
+	"option4": "Learning without any data",
+	"answer": 2
+    },
+    {
+	"question": "What is the primary function of AI ethics?",
+	"option1": "To regulate hardware",
+	"option2": "To ensure responsible AI development and usage",
+	"option3": "To enhance performance",
+	"option4": "To minimize costs",
+	"answer": 2
+    },
+    {
+	"question": "Which technology is used in self-driving cars?",
+	"option1": "Machine learning",
+	"option2": "Augmented reality",
+	"option3": "Virtual reality",
+	"option4": "Blockchain",
+	"answer": 1
+    },
+    {
+	"question": "What is a common challenge in AI development?",
+	"option1": "Lack of data",
+	"option2": "Data privacy concerns",
+	"option3": "Algorithm bias",
+	"option4": "All of the above",
+	"answer": 4
+    }
+]
+
